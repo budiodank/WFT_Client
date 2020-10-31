@@ -1,0 +1,11 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "S-River",
+  "short_name": "S-River",
+  "version": "io.shinobi.rivercleaner",
+  "description": "A project to overcome the problem of garbage in the river.",
+  "author": "IOT Shinobi Team",
+  "icons": [],
+  "start_url": "index.html"
+}

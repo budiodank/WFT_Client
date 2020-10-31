@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "631698913125",
+    "firebase_url": "https://notif-app-85b09.firebaseio.com",
+    "project_id": "notif-app-85b09",
+    "storage_bucket": "notif-app-85b09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631698913125:android:251663be99d5722aeed38c",
+        "android_client_info": {
+          "package_name": "io.shinobi.rivercleaner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631698913125-kdnqbtuojhq1iee81u94t9v5o3hurhvr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOSF4lIirEo8ErGJivdXcFwJTBa7PF4A4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631698913125-kdnqbtuojhq1iee81u94t9v5o3hurhvr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

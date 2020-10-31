@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="io.shinobi.rivercleaner" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <feature name="Whitelist">
+        <param name="android-package" value="org.apache.cordova.whitelist.WhitelistPlugin" />
+        <param name="onload" value="true" />
+    </feature>
+    <feature name="SplashScreen">
+        <param name="android-package" value="org.apache.cordova.splashscreen.SplashScreen" />
+        <param name="onload" value="true" />
+    </feature>
+    <name>WFT</name>
+    <description>
+        Prototype water pump notification system based on mobile applications.
+    </description>
+    <author email="budiyusuf999@gmail.com" href="http://cordova.io">
+        Budi Yusuf
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+    <allow-navigation href="*" />
+    <allow-intent href="*" />
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+    <allow-intent href="tel:*" />
+    <allow-intent href="sms:*" />
+    <allow-intent href="mailto:*" />
+    <allow-intent href="geo:*" />
+    <allow-intent href="market:*" />
+    <icon density="ldpi" src="www/res/icons/android/river.png" />
+    <icon density="mdpi" src="www/res/icons/android/river-mdpi.png" />
+    <icon density="hdpi" src="www/res/icons/android/river-mdpi.png" />
+    <icon density="xhdpi" src="www/res/icons/android/river-mdpi.png" />
+    <splash density="land-hdpi" src="www/res/screen/android/river.png" />
+    <splash density="land-ldpi" src="www/res/screen/android/river-mdpi.png" />
+    <splash density="land-mdpi" src="www/res/screen/android/river-mdpi.png" />
+    <splash density="land-xhdpi" src="www/res/screen/android/river-mdpi.png" />
+    <splash density="port-hdpi" src="www/res/screen/android/river.png" />
+    <splash density="port-ldpi" src="www/res/screen/android/river-mdpi.png" />
+    <splash density="port-mdpi" src="www/res/screen/android/river-mdpi.png" />
+    <splash density="port-xhdpi" src="www/res/screen/android/river-mdpi.png" />
+    <preference name="loglevel" value="DEBUG" />
+</widget>
